@@ -1,3 +1,4 @@
 Why might you want to always push changes manually rather than having Git automatically stay up-to-date with your remote repository?
 It gives better control over pulling the changes to repository
-
+Describe the difference between forks, clones and branches. When would you use one instead of another?
+Forl is used when we want to copy repository from github to github, clones can be used to clone remote as well as local repository, and branches are created to distribute code to different levels and can be merged later.
