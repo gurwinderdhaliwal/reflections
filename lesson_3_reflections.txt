@@ -1,1 +1,3 @@
+Why might you want to always push changes manually rather than having Git automatically stay up-to-date with your remote repository?
+It gives better control over pulling the changes to repository
 
